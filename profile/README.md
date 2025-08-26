@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-110K+-6ab04c)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Aug_2025-3498db)
 
-![CCleaner Banner](https://brytesoft.com/media/catalog/product/cache/bb9874c4f5fb8df1e4307d8e39ded1e4/c/c/ccleaner_pro_1.png)  
+![CCleaner Banner](https://i.pinimg.com/736x/9a/17/e1/9a17e1c718927484de321bc7cee2c605.jpg)  
 *(CCleaner 2025 running on Windows 11 desktop)*  
 
 **Welcome**: This is the official-style **CCleaner 2025 Setup Pack** for Windows 11/10, designed to keep your PC clean, optimized, and private.  
